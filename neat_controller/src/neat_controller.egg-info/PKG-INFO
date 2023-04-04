@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: neat-controller
+Version: 0.0.1
+Summary: A package that provides users with greater control over the execution order and properties of the NEAT program, enabling them to customize their NEAT algorithms with ease
+Author-email: Ashton Antoun <Ashton.Antoun@gmail.com>
+Project-URL: Homepage, https://github.com/AshtonGit/NEAT_Controller
+Project-URL: Bug Tracker, https://github.com/AshtonGit/NEAT_Controller/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE

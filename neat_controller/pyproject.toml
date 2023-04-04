@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neat_controller"
+version = "0.0.1"
+authors = [
+  { name="Ashton Antoun", email="Ashton.Antoun@gmail.com" },
+]
+description = "A package that provides users with greater control over the execution order and properties of the NEAT program, enabling them to customize their NEAT algorithms with ease"
+readme = "README.md"
+requires-python = ">=3.7"
+
+
+dependencies = [
+    "neat-python >= 0.9",
+    "numpy >= 1.24",
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/AshtonGit/NEAT_Controller"
+"Bug Tracker" = "https://github.com/AshtonGit/NEAT_Controller/issues"
